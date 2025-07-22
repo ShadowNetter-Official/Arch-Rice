@@ -9,7 +9,7 @@ A minimal and aesthetic rice setup for **Arch Linux** using **BSPWM**.
 - **OS**: Arch Linux  
 - **WM**: BSPWM  
 
-![Overview] (screenshots/overview.jpg)
+![Overview] (screenshots/overview.png)
 
 overview
 
