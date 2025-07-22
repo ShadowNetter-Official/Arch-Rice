@@ -41,6 +41,12 @@ A minimal and aesthetic rice setup for **Arch Linux** using **BSPWM**.
 
 To use this rice on a fresh Arch Linux install, follow these steps:
 
+### Use installation script
+
+```bash
+wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice/main/install.sh && sh install.sh
+```
+
 ### 1. Install Required Packages
 
 ```bash
