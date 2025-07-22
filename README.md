@@ -40,6 +40,7 @@ A minimal and aesthetic rice setup for **Arch Linux** using **BSPWM**.
 ## Setup Guide
 
 ⚠️WARNING: this setup uses the fr*nch keyboard layout, to change it modify bspwmrc⚠️
+
 To use this rice on a fresh Arch Linux install, follow these steps:
 
 ### Use installation script
