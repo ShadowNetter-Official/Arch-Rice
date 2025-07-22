@@ -77,11 +77,13 @@ mkdir ~/.config/sxhkd
 mkdir ~/.config/rofi
 mkdir ~/.config/polybar
 mkdir ~/wallpapers
+mkdir ~/.config/kitty
 cp config/bspwm/bspwmrc ~/.config/bspwm/
 cp config/sxhkd/sxhkdrc ~/.config/sxhkd/
 cp config/polybar/* ~/.config/polybar/
 cp wallpapers/* ~/wallpapers/
-cp config/rofi/config.rasi ~/.config/rofi
+cp config/kitty/kitty.conf ~/.config/kitty/
+cp config/rofi/config.rasi ~/.config/rofi/
 chmod +x ~/.config/bspwm/bspwmrc
 chmod +x ~/.config/sxhkd/sxhkdrc
 chmod +x ~/.config/polybar/launch.sh
