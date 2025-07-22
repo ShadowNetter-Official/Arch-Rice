@@ -50,9 +50,7 @@ wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice/main/inst
 ### 1. Install Required Packages
 
 ```bash
-sudo pacman -S bspwm sxhkd polybar nitrogen git fastfetch rofi kitty
-ttf-jetbrains-mono-nerd ttf-martian-mono-nerd ttf-nerd-fonts-symbols
-lightdm-gtk-greeter brightnessctl pamixer python-pipx
+sudo pacman -S bspwm sxhkd polybar nitrogen git fastfetch rofi kitty ttf-jetbrains-mono-nerd ttf-martian-mono-nerd ttf-nerd-fonts-symbols lightdm-gtk-greeter brightnessctl pamixer python-pipx
 ```
 ### 2. Install YAY (AUR Helper)
 
