@@ -46,7 +46,7 @@ To use this rice on a fresh Arch Linux install, follow these steps:
 ```bash
 sudo pacman -S bspwm sxhkd polybar nitrogen git fastfetch rofi kitty
 ttf-jetbrains-mono-nerd ttf-martian-mono-nerd ttf-nerd-fonts-symbols
-lightdm-gtk-greeter brightnessctl pamixer
+lightdm-gtk-greeter brightnessctl pamixer python-pipx
 ```
 ### 2. Install YAY (AUR Helper)
 
@@ -86,7 +86,14 @@ chmod +x ~/.config/bspwm/bspwmrc
 chmod +x ~/.config/sxhkd/sxhkdrc
 chmod +x ~/.config/polybar/launch.sh
 sudo systemctl enable lightdm.service
+pipx install git+https://github.com/rmaake1/terminal-rain-lightning.git
+pipx ensurepath
+wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
 ```
+
+### 6. Done :)
+
+you can now reboot your system
 
 ### MIT License
 
