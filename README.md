@@ -11,8 +11,6 @@ A minimal and aesthetic rice setup for **Arch Linux** using **BSPWM**.
 
 ![Overview](screenshots/overview.png)
 
-overview
-
 ---
 
 ## Software
@@ -87,6 +85,7 @@ cp config/rofi/config.rasi ~/.config/rofi
 chmod +x ~/.config/bspwm/bspwmrc
 chmod +x ~/.config/sxhkd/sxhkdrc
 chmod +x ~/.config/polybar/launch.sh
+sudo systemctl enable lightdm.service
 ```
 
 ### MIT License
