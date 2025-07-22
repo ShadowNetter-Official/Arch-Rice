@@ -44,9 +44,7 @@ To use this rice on a fresh Arch Linux install, follow these steps:
 ### 1. Install Required Packages
 
 ```bash
-sudo pacman -S bspwm sxhkd polybar nitrogen git fastfetch rofi kitty
-ttf-jetbrains-mono-nerd ttf-martian-mono-nerd ttf-nerd-fonts-symbols
-lightdm-gtk-greeter brightnessctl pamixer python-pipx
+sudo pacman -S bspwm sxhkd polybar nitrogen git fastfetch rofi kitty ttf-jetbrains-mono-nerd ttf-martian-mono-nerd ttf-nerd-fonts-symbols lightdm-gtk-greeter brightnessctl pamixer python-pipx
 ```
 ### 2. Install YAY (AUR Helper)
 
