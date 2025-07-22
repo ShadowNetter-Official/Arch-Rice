@@ -16,4 +16,4 @@ bspc config gapless_monocle      true
 setxkbmap fr &
 sxhkd &
 bash ~/.config/polybar/launch.sh &
-nitrogen --set-scaled ~/wallpapers/car.jpg &
+nitrogen --set-scaled ~/wallpapers/cargrey.jpg &
