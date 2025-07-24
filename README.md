@@ -46,7 +46,7 @@ To use this rice on a fresh Arch Linux install, follow these steps:
 ### Use installation script
 
 ```bash
-wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice/main/install.sh && sh install.sh
+wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice-June-2025/main/install.sh && sh install.sh
 ```
 ### Or install manually:
 
