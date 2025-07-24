@@ -72,8 +72,8 @@ yay -S cava tty-clock lowfi rofi-nordvpn-git
 ### 4. Clone This Repo
 
 ```bash
-git clone https://github.com/ShadowNetter-Official/Arch-Rice.git
-cd Arch-Rice
+git clone https://github.com/ShadowNetter-Official/Arch-Rice-June-2025.git
+cd Arch-Rice-June-2025
 ```
 
 ### 5. Configure BSPWM and Other Tools
